@@ -1,4 +1,4 @@
-# Counterforce3
+# Jungles Missle Command
 Real World RTS for android
 
 Ignore my spelling, not my first language.
